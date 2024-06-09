@@ -51,5 +51,13 @@ metadata = pd.read_csv('metadata.csv')
 data = np.load("data.npz")['data'].astype(np.float32) # the feature data is stored in np.float16 
 ```
 
+run the `merge.py`
+
+```python
+python merge.py -i d03
+```
+
+
+
 ## License
 DynST is released under a [CC BY-NC 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0). Our code implementation is released under the [MIT License](https://opensource.org/licenses/MIT). Please obey the regulation of [PEMS](https://pems.dot.ca.gov/?directory=Help&dnode=Help&content=var_terms). 
