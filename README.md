@@ -61,3 +61,53 @@ python merge.py -i d03
 
 ## License
 DynST is released under a [CC BY-NC 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0). Our code implementation is released under the [MIT License](https://opensource.org/licenses/MIT). Please obey the regulation of [PEMS](https://pems.dot.ca.gov/?directory=Help&dnode=Help&content=var_terms). 
+
+## Appendix
+
+### Temporal Characteristics
+
+To help users better understand the temporal characteristics of the dataset, we have conducted several statistical analyses and generated corresponding charts. Each chart is linked below:
+
+For each sub-dataset, we calculate the spatial average of the data at each time frame for further use.
+
+#### Year View
+
+Annual variations in average traffic flow. Initially, we calculated the daily average for each time segment, from which the annual average was subsequently derived.
+
+| Chart Link |
+|------------|
+| [Annual Patterns of Average Traffic Flow](charts/annual_patterns_of_avg_traffic.pdf) |
+| [Annual Patterns of Average Occupancy](charts/annual_patterns_of_avg_occupancy.pdf) |
+| [Annual Patterns of Average Speed](charts/annual_patterns_of_avg_speed.pdf) |
+
+#### Week View
+
+Difference between weekdays and weekends
+
+| Chart Link |
+|------------|
+| [2001 WeekView](charts/2001_weekview.pdf) |
+| [2002 WeekView](charts/2002_weekview.pdf) |
+| [2003 WeekView](charts/2003_weekview.pdf) |
+| [2004 WeekView](charts/2004_weekview.pdf) |
+| [2005 WeekView](charts/2005_weekview.pdf) |
+| [2006 WeekView](charts/2006_weekview.pdf) |
+| [2007 WeekView](charts/2007_weekview.pdf) |
+| [2008 WeekView](charts/2008_weekview.pdf) |
+| [2009 WeekView](charts/2009_weekview.pdf) |
+| [2010 WeekView](charts/2010_weekview.pdf) |
+| [2011 WeekView](charts/2011_weekview.pdf) |
+| [2012 WeekView](charts/2012_weekview.pdf) |
+| [2013 WeekView](charts/2013_weekview.pdf) |
+| [2014 WeekView](charts/2014_weekview.pdf) |
+| [2015 WeekView](charts/2015_weekview.pdf) |
+| [2016 WeekView](charts/2016_weekview.pdf) |
+| [2017 WeekView](charts/2017_weekview.pdf) |
+| [2018 WeekView](charts/2018_weekview.pdf) |
+| [2019 WeekView](charts/2019_weekview.pdf) |
+| [2020 WeekView](charts/2020_weekview.pdf) |
+| [2021 WeekView](charts/2021_weekview.pdf) |
+| [2022 WeekView](charts/2022_weekview.pdf) |
+| [2023 WeekView](charts/2023_weekview.pdf) |
+| [2024 WeekView](charts/2024_weekview.pdf) |
+
