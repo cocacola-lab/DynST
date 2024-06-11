@@ -13,6 +13,8 @@ We introduce a large-scale spatial-temporal dataset for traffic forecasting, Dyn
 
 This is the offical repo for DynST.
 
+You can check the basic temporal statistical analysis results in `charts/`. 
+
 ## Dataset Description
 
 - **Number of Records:** DynST record 12,220 sensors, over 20 years, totally 20.35 billion data points.
