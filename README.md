@@ -7,6 +7,7 @@ This work is under review.
   - [Download Link](#download-link)
   - [Usage](#usage)
   - [License](#license)
+  - [Charts&Figures](#charts-and-figures)
 
 ## Introduction
 We introduce a large-scale spatial-temporal dataset for traffic forecasting, DynST, encompassing 20.35 billion data points covering approximately 20 years. Unlike traditional datasets that accumulate data over time on a fixed road network, ours provides rich spatial information with dynamically evolving road networks, alongside diverse temporal data. 
@@ -14,6 +15,8 @@ We introduce a large-scale spatial-temporal dataset for traffic forecasting, Dyn
 This is the offical repo for DynST.
 
 You can check the basic temporal statistical analysis results in `charts/`. 
+
+As the PEMS official website is often down, we provide a snapshot of the regulation webpage.
 
 ## Dataset Description
 
@@ -64,7 +67,7 @@ python merge.py -i d03
 ## License
 DynST is released under a [CC BY-NC 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0). Our code implementation is released under the [MIT License](https://opensource.org/licenses/MIT). Please obey the regulation of [PEMS](https://pems.dot.ca.gov/?directory=Help&dnode=Help&content=var_terms). 
 
-## Appendix
+## Charts and Figures
 
 ### Temporal Characteristics
 
