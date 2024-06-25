@@ -42,7 +42,7 @@ The directory tree is:
 
 ## Usage
 
-Download the dataset from OneDrive and unzip it. If you want to use DynST as traditional setting, e.g., Target-only and Transfer-static setting mentioned in our paper, you should run the `merget.py` to gain the static version of DynST.
+Download the dataset from OneDrive and unzip it. If you want to use DynST as traditional setting, e.g., Target-only and Transfer-static setting mentioned in our paper, you should run the `merge.py` to gain the static version of DynST.
 
 Basic usage of the dataset is as follows:
 
