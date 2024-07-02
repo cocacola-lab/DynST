@@ -58,10 +58,16 @@ data = np.load("data.npz")['data'].astype(np.float32) # the feature data is stor
 
 run the `merge.py`
 
-```python
+```shell
 python merge.py -i d03
 ```
 
+generate ajacency table.
+
+```shell
+cd gen_adj_table
+python gen.py --dataset d05
+```
 
 
 ## License
