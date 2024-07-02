@@ -3,6 +3,7 @@ import pandas as pd
 import argparse
 parser = argparse.ArgumentParser()
 
+
 parser.add_argument('--dataset', type=str, default='D05')
 args = parser.parse_args()
 dataset = args.dataset
@@ -31,8 +32,10 @@ df.to_csv(f'./txt/{dataset}.txt',sep='\t')
 print("Coordinates file merging finished")
 
 
+
 in_dir = f"../StaticVersion/{dataset}/"
 out_dir = f"{dataset}_adj/"
+
 txt_file = f"txt/{dataset}.txt"
 
 if not os.path.exists(out_dir):

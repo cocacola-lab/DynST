@@ -66,8 +66,9 @@ generate ajacency table.
 
 ```shell
 cd gen_adj_table
+
 python gen.py --dataset D05
-```
+
 
 
 ## License
